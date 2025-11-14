@@ -54,7 +54,7 @@ body {
 .lamp {
     width: 100px;
     height: 150px;
-    background: url('3.png') center/contain no-repeat;
+    background: url('3.jpg') center/contain no-repeat;
     position: relative;
     z-index: 30;
     transform: scaleY(-1);
